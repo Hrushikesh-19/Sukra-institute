@@ -1202,11 +1202,26 @@ details p {
   gap: 6px;
 }
 
-.contact-cta label:nth-of-type(3),
+.contact-cta label.form-full-width,
 .contact-cta label:nth-of-type(4),
+.contact-cta label:nth-of-type(5),
 .contact-cta form .button,
 .form-status {
   grid-column: 1 / -1;
+}
+
+.contact-cta .contact-email-link {
+  color: #e0f2fe;
+  font-weight: 600;
+  font-size: 14px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: color 0.2s ease;
+}
+
+.contact-cta .contact-email-link:hover {
+  color: var(--gold-light);
 }
 
 .contact-cta input,
@@ -1247,6 +1262,7 @@ details p {
   background: linear-gradient(135deg, var(--gold-light), var(--gold));
   border-color: var(--gold);
   color: var(--navy);
+  transition: all 0.3s ease;
 }
 
 .contact-cta .button:hover {
@@ -1255,6 +1271,12 @@ details p {
   border-color: #ffffff;
   transform: translateY(-2px);
   box-shadow: 0 10px 30px rgba(201, 158, 66, 0.3);
+}
+
+.contact-cta .button:disabled {
+  opacity: 0.75;
+  cursor: not-allowed;
+  transform: none;
 }
 
 .form-status {
@@ -1420,11 +1442,13 @@ details p {
   margin: 0 0 4px;
 }
 
-.phone-row {
+.phone-row,
+.email-row {
   margin: 0;
 }
 
-.phone-row a {
+.phone-row a,
+.email-row a {
   color: #ffffff;
   text-decoration: none;
   font-weight: 600;
@@ -1435,7 +1459,8 @@ details p {
   transition: color 0.2s ease;
 }
 
-.phone-row a:hover {
+.phone-row a:hover,
+.email-row a:hover {
   color: var(--gold-light);
 }
 
