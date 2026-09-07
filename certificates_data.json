@@ -1,0 +1,560 @@
+[
+  {
+    "file": "certificates/cert-1.jpg",
+    "name": "KALAKOTI UDAY RAM",
+    "slno": "30",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-2.jpg",
+    "name": "PALOJU PARIPURNA CHARI",
+    "slno": "31",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-3.jpg",
+    "name": "PARVATHAM RAMAKRISHNA",
+    "slno": "27",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-4.jpg",
+    "name": "YERROJU BHASKER",
+    "slno": "09",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-5.jpg",
+    "name": "CHOLLETI SHANKAR",
+    "slno": "23",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-6.jpg",
+    "name": "ANJANEYULU",
+    "slno": "10",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-7.jpg",
+    "name": "G. SRAVAN TEJ",
+    "slno": "11",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-8.jpg",
+    "name": "MIYAPUR SANDEEP",
+    "slno": "11",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-9.jpg",
+    "name": "CHOLLERI SRINIVASA CHARY",
+    "slno": "13",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-10.jpg",
+    "name": "P. MANIKANTA CHARY",
+    "slno": "17",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-11.jpg",
+    "name": "M. KARTHIEK",
+    "slno": "12",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-12.jpg",
+    "name": "G. VENKATACHARY",
+    "slno": "18",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-13.jpg",
+    "name": "N. PRASAD",
+    "slno": "16",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-14.jpg",
+    "name": "DASAROJU UDAY KIRAN",
+    "slno": "14",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-15.jpg",
+    "name": "NAGARJUNA SHIVAMANISHARMA",
+    "slno": "19",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-16.jpg",
+    "name": "G. PAWAN SHARMA",
+    "slno": "15",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-17.jpg",
+    "name": "D. UPENDRA CHARY",
+    "slno": "20",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-18.jpg",
+    "name": "SRIRAJULA SHIVA CHANDU",
+    "slno": "21",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-19.jpg",
+    "name": "GADIYARAM DURGA PRASAD",
+    "slno": "22",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-20.jpg",
+    "name": "S. RAVI SHANKER",
+    "slno": "25",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-21.jpg",
+    "name": "CHOLETI SHIVA SAI",
+    "slno": "26",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-22.jpg",
+    "name": "M. PRASANTH KUMAR",
+    "slno": "24",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-23.jpg",
+    "name": "KASOJU PRIYANKA",
+    "slno": "29",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "06/09/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-25.jpg",
+    "name": "BAVIRISETTY BINDU",
+    "slno": "01",
+    "batch": "18",
+    "course": "JYOTHISHA VIGNANAM COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-26.jpg",
+    "name": "R. GEETA MAHENDER",
+    "slno": "02",
+    "batch": "18",
+    "course": "JYOTHISHA VIGNANAM COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-27.jpg",
+    "name": "R. GEETA MAHENDER",
+    "slno": "02",
+    "batch": "18",
+    "course": "NUMEROLOGY COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-28.jpg",
+    "name": "BAVIRISETTY BINDU",
+    "slno": "01",
+    "batch": "18",
+    "course": "NUMEROLOGY COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-29.jpg",
+    "name": "MANDA JYOTHI",
+    "slno": "03",
+    "batch": "18",
+    "course": "JYOTHISHA VIGNANAM COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-30.jpg",
+    "name": "GOGIKARI RAKESH",
+    "slno": "04",
+    "batch": "18",
+    "course": "JYOTHISHA VIGNANAM COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-31.jpg",
+    "name": "MANDA JYOTHI",
+    "slno": "03",
+    "batch": "18",
+    "course": "NUMEROLOGY COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-32.jpg",
+    "name": "PRIYANKA PALADUGU",
+    "slno": "05",
+    "batch": "18",
+    "course": "NUMEROLOGY COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-33.jpg",
+    "name": "VUTUKURI SRINIVASARAO",
+    "slno": "06",
+    "batch": "18",
+    "course": "NUMEROLOGY COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-34.jpg",
+    "name": "PRIYANKA PALADUGU",
+    "slno": "05",
+    "batch": "18",
+    "course": "JYOTHISHA VIGNANAM COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-35.jpg",
+    "name": "GK SUHARITHA",
+    "slno": "07",
+    "batch": "18",
+    "course": "NUMEROLOGY COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-36.jpg",
+    "name": "GK SUHARITHA",
+    "slno": "07",
+    "batch": "18",
+    "course": "JYOTHISHA VIGNANAM COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-37.jpg",
+    "name": "VUTUKURI SRINIVASARAO",
+    "slno": "06",
+    "batch": "18",
+    "course": "JYOTHISHA VIGNANAM COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-38.jpg",
+    "name": "GUNTURU VISWAJITH",
+    "slno": "08",
+    "batch": "18",
+    "course": "NUMEROLOGY COURSE",
+    "date": "30/08/2026",
+    "place": "GUNTUR"
+  },
+  {
+    "file": "certificates/cert-39.jpg",
+    "name": "VENKATA SOWJANYA PERLA",
+    "slno": "09",
+    "batch": "18",
+    "course": "JYOTHISHA VIGNANAM COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-40.jpg",
+    "name": "GUNTURU VISWAJITH",
+    "slno": "08",
+    "batch": "18",
+    "course": "JYOTHISHA VIGNANAM COURSE",
+    "date": "30/08/2026",
+    "place": "GUNTUR"
+  },
+  {
+    "file": "certificates/cert-41.jpg",
+    "name": "ARUNA MALLELA",
+    "slno": "10",
+    "batch": "18",
+    "course": "JYOTHISHA VIGNANAM COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-42.jpg",
+    "name": "ARUNA MALLELA",
+    "slno": "10",
+    "batch": "18",
+    "course": "NUMEROLOGY COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-43.jpg",
+    "name": "VASUNDHARA DEVI MARADUGU",
+    "slno": "11",
+    "batch": "18",
+    "course": "JYOTHISHA VIGNANAM COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-44.jpg",
+    "name": "VENKATA SOWJANYA PERLA",
+    "slno": "09",
+    "batch": "18",
+    "course": "NUMEROLOGY COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-45.jpg",
+    "name": "VEDANTHAM ANITHAASRI",
+    "slno": "12",
+    "batch": "19",
+    "course": "JYOTHISHA VIGNANAM COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-46.jpg",
+    "name": "VEDANTHAM ANITHAASRI",
+    "slno": "12",
+    "batch": "18",
+    "course": "NUMEROLOGY COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-47.jpg",
+    "name": "VASUNDHARA DEVI MARADUGU",
+    "slno": "11",
+    "batch": "18",
+    "course": "NUMEROLOGY COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-48.jpg",
+    "name": "KONDAPURAM SUREKHA",
+    "slno": "13",
+    "batch": "18",
+    "course": "NUMEROLOGY COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-49.jpg",
+    "name": "GANACHARI NANDINI",
+    "slno": "14",
+    "batch": "18",
+    "course": "JYOTHISHA VIGNANAM COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-50.jpg",
+    "name": "KONDAPURAM SUREKHA",
+    "slno": "13",
+    "batch": "18",
+    "course": "JYOTHISHA VIGNANAM COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-51.jpg",
+    "name": "DR. PAVANI BOJANALA",
+    "slno": "15",
+    "batch": "18",
+    "course": "NUMEROLOGY COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-52.jpg",
+    "name": "VEGGALAM SANTHOSH SHASTRY",
+    "slno": "16",
+    "batch": "18",
+    "course": "NUMEROLOGY COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-53.jpg",
+    "name": "GANACHARI NANDINI",
+    "slno": "14",
+    "batch": "18",
+    "course": "NUMEROLOGY COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-54.jpg",
+    "name": "MANOHAR. CH",
+    "slno": "07",
+    "batch": "18",
+    "course": "NAVARATNA COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-55.jpg",
+    "name": "DR. V. KRISHNA MOHAN",
+    "slno": "01",
+    "batch": "18",
+    "course": "NAVARATNA COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-56.jpg",
+    "name": "SATISH JHALKI",
+    "slno": "06",
+    "batch": "19",
+    "course": "NAVARATNA COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-57.jpg",
+    "name": "MANTHENA BHIKSHAPATHI BHAVANI",
+    "slno": "03",
+    "batch": "18",
+    "course": "NAVARATNA COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-58.jpg",
+    "name": "ANIL CHINTHALA",
+    "slno": "04",
+    "batch": "18",
+    "course": "NAVARATNA COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-59.jpg",
+    "name": "VASUNDHARA DEVI MARADUGU",
+    "slno": "05",
+    "batch": "18",
+    "course": "NAVARATNA COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-60.jpg",
+    "name": "VEMULA MAHENDER",
+    "slno": "02",
+    "batch": "18",
+    "course": "NAVARATNA COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-62.jpg",
+    "name": "THEJAASWINI. KOTIKA",
+    "slno": "16",
+    "batch": "18",
+    "course": "JYOTHISHA VIGNANAM COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-64.jpg",
+    "name": "VELLALACHERVU SURESH BABU",
+    "slno": "08",
+    "batch": "18",
+    "course": "NAVARATNA COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  },
+  {
+    "file": "certificates/cert-65.jpg",
+    "name": "THEJAASWINI. KOTIKA",
+    "slno": "16",
+    "batch": "18",
+    "course": "NUMEROLOGY COURSE",
+    "date": "30/08/2026",
+    "place": "PEDAKURAPADU"
+  }
+]
