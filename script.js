@@ -134,17 +134,18 @@ document.addEventListener("DOMContentLoaded", () => {
       }
 
       const payload = {
-        Name: name,
-        Email: email,
-        Phone: phone,
-        "Interested In": interest,
-        Message: message,
-        _subject: `New Sukra Institute Enquiry: ${name} (${interest})`,
-        _template: "table"
+        access_key: "d2b6ac0a-aba2-4c38-ac09-7651ff5b980a",
+        name: name,
+        email: email,
+        phone: phone,
+        interested_in: interest,
+        message: message,
+        subject: `New Sukra Institute Enquiry: ${name} (${interest})`,
+        from_name: "Sukra Institute of Gemology"
       };
 
       try {
-        const response = await fetch("https://formsubmit.co/ajax/hrushikeshmandadapu@mail.com", {
+        const response = await fetch("https://api.web3forms.com/submit", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
@@ -153,9 +154,9 @@ document.addEventListener("DOMContentLoaded", () => {
           body: JSON.stringify(payload)
         });
 
-        const data = await response.json().catch(() => ({ success: true }));
+        const data = await response.json().catch(() => ({ success: false }));
 
-        if (response.ok || data.success === "true" || data.success === true) {
+        if (response.ok && (data.success === true || data.success === "true")) {
           if (statusElem) {
             statusElem.innerHTML = `
               <div class="form-success-box" style="background:rgba(37,211,102,0.15);border:1px solid #25d366;padding:16px;border-radius:8px;margin-top:16px;">
